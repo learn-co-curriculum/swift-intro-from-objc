@@ -44,7 +44,7 @@ These lessons offer a guided journey of learning the fundamentals of composing s
 
 These lessons assume a prior knowledge of:
 
-  * using bash, git, and Github for managing source control; 
+  * using bash, git, and GitHub for managing source control; 
   * using the Xcode IDE and its various toolsets including Apple's Reference Documentation; and
   * fundamental programming concepts learned from proficiency in another C-family programming language (which may or may not be Objective-C), including:
      * syntax, variables, and operators,
@@ -61,7 +61,7 @@ These lessons assume a prior knowledge of:
 
 ##### Xcode 7.1 & Swift 2.1 (released Oct 21, 2015)
 
-These lessons are written for the latest version of the Swift programming language (2.1) that is included in Xcode 7.1 and later. It is strongly recommended that you update to Xcode 7.1 or later for working on these labs. If you are unsure which version of Xcode you have installed, select "About Xcode" from the taskbar when Xcode is the active application on your machine.
+These lessons are written for the latest version of the Swift programming language (2.1) that is included in Xcode 7.1 and later. It is strongly recommended that you update to Xcode 7.1 or later for working on these labs. If you are unsure which version of Xcode you have installed, select `Xcode -> About Xcode` from the taskbar when Xcode is the active application on your machine.
 
 ##### System Recommendations
 
@@ -69,7 +69,7 @@ Xcode 7.1 is available to all MacIntosh computers running OS 10.10 Yosemite and 
 
 While some machines as old as 2009 may be able to download Xcode 7.1, they may not perform well when running a scheme. It is recommended to use a MacIntosh with a Core i5 or i7 dual-core processor (or better), which has been common to MacIntosh computers since 2011. A capacity of 8GB of RAM is also recommended but not strictly necessary.
 
-If you are uncertain of your machine's specifications, select "About This Mac" from the Apple logo in the taskbar.
+If you are uncertain of your machine's specifications, select `About This Mac` from the Apple logo in the taskbar.
 
 
 
