@@ -6,7 +6,7 @@ While Swift is comparatively a young language, having only been publicly announc
 
 ##### Statically Typed
 
-And indeed, many aspects of developing with Swift are cleaner and quicker. It is a strongly-typed (or "statically-typed") language that attempts to move errors out of the run-time phase and into the compile-time phase; a move with the intent of making deployed code "safer", but with the effect of handling null reference pointers in a different way.
+And indeed, many aspects of developing with Swift are cleaner and quicker. It is a strongly-typed (or "statically-typed") language that attempts to move errors out of the run-time phase and into the compile-time phase; a move with the intent of making deployed code "safer", but with the effect of requiring developers to think more defensively before even compiling the code.
 
 ##### Syntax & Foundation
 
