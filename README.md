@@ -26,11 +26,13 @@ In its efforts to get developers to adopt Swift, Apple has already articulated a
 
 1. Read [Apple's Swift Overview](https://developer.apple.com/swift/).
 
-2. Read the [About Swift](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html#//apple_ref/doc/uid/TP40014097-CH3-ID0) page of Apple's *The Swift Programming Language* Manual.
+2. Read Wired Magazine's Dec 3, 2015 article titled [*Apple Open Sources Its Swift Programming Language*](http://www.wired.com/2015/12/apple-open-sources-its-swift-programming-language/).
 
-3. Glance through the [Wikipedia page about Swift](https://en.wikipedia.org/wiki/Swift_(programming_language)) for information on its short history.
+3. Read the [About Swift](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html#//apple_ref/doc/uid/TP40014097-CH3-ID0) page of Apple's *The Swift Programming Language* Manual.
 
-4. Read some of [these answers on Quora](https://www.quora.com/Why-would-Apple-introduce-new-programming-languages-e-g-Swift-instead-of-embracing-an-existing-one) about why Apple chose to develop Swift.
+4. Glance through the [Wikipedia page about Swift](https://en.wikipedia.org/wiki/Swift_(programming_language)) for information on its short history.
+
+5. Browse across [these answers on Quora](https://www.quora.com/Why-would-Apple-introduce-new-programming-languages-e-g-Swift-instead-of-embracing-an-existing-one) about why Apple chose to develop Swift.
 
 ### The Purpose Of These Lessons
 
